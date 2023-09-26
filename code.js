@@ -30,8 +30,9 @@ if (list.length <=1) return -1;
         return -1;
     }
 */
-
+/*
 var newList = [1,1,2,2,2,2]
 
 console.log(binarySearch(newList,newList[0]))
 console.log(newList)
+*/
